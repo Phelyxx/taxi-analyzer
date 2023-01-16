@@ -1,0 +1,2 @@
+# Analysis of cab service in Chicago
+In this project, I implemented an application to analyze the cab service in the city of Chicago. I used data structures to respond to real issues related to public transportation. The application allows important queries to be made to city administrators and authorities, which will help them make better decisions regarding cab service. I used data available in Chicago's official portal to analyze the service.
